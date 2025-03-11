@@ -200,7 +200,7 @@ To program the rotational motors, the first step is to include the API module co
 
 %tab "Python"
 ```python
-from controller import Motor
+from controller import Motor, Robot, DistanceSensor
 ```
 %tab-end
 
